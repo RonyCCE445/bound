@@ -1,0 +1,39 @@
+target/
+
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ ###
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Eclipse / STS ###
+.project
+.classpath
+.settings/
+.factorypath
+.apt_generated
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+HELP.md
+
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
